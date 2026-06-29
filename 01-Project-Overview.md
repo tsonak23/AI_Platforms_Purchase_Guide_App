@@ -15,9 +15,23 @@ Transform AI platform selection from a costly, uncertain process into a structur
   ## Business Objective:
   Empower stakeholders to make informed AI investment decisions that align platforms with actual business needs, reducing over-engineering and   budget waste.
 
-  
+
+# Project Scope:
+Develop and deploy a responsive platform recommendation application that guides business users through AI platform selection based on functional and budgetary requirements.
+
+Include user education on AI platform pricing models, token consumption, and cost optimization strategies. 
+
+# Stakeholders:
+
+|      Stakeholder    Group      |      Role &    Responsibilities                           |      Influence     |      Interest     |
+|--------------------------------|-----------------------------------------------------------|--------------------|-------------------|
+|     Executive   Sponsor        |     Funding, strategic   alignment, go/no-go decisions    |     High           |     High          |
+|     Finance                    |     Cost validation,   budget allocation                  |     Medium         |     High          |
+|     Development Team           |     Architecture,   build, deployment, maintenance        |     High           |     Medium        |
+|     Early Adopter   Clients    |     Beta testing,   feedback, case study potential        |     Medium         |     Medium        |
+|     Support Team               |     Documentation,   training, user onboarding            |     Medium         |     Medium        |
+
 Success Metrics
-Project Scope (High-Level)
-Stakeholders
+
 Assumptions
 Constraints
