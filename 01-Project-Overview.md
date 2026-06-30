@@ -1,5 +1,5 @@
 # Business Problem:
-Decision-makers struggle to evaluate AI platforms objectively due to lack of standardized comparison criteria, domain-specific use-case mapping, and cost-benefit analysis. This uncertainty drives either over-engineering (excess capacity) or under-investment (feature gaps), both costly outcomes preventable with structured governance frameworks.
+Decision-makers struggle to evaluate AI platforms due to lack of standardized comparison criteria, domain-specific use-case mapping, and cost-benefit analysis. This uncertainty drives either over-engineering (excess capacity) or under-investment (feature gaps).
 
 # Project Vision:
 Transform AI platform selection from a costly, uncertain process into a structured, objective evaluation that maximizes ROI and strategic alignment.
@@ -23,9 +23,9 @@ Include user education on AI platform pricing models, token consumption, and cos
 
 # Stakeholders:
 
-|      Stakeholder    Group      |      Role &    Responsibilities                           |      Influence     |      Interest     |
+|      Stakeholder               |      Role &    Responsibilities                           |      Influence     |      Interest     |
 |--------------------------------|-----------------------------------------------------------|--------------------|-------------------|
-|     Executive   Sponsor        |     Funding, strategic   alignment, go/no-go decisions    |     High           |     High          |
+|     Project Sponsor            |     Funding, strategic   alignment, go/no-go decisions    |     High           |     High          |
 |     Finance                    |     Cost validation,   budget allocation                  |     Medium         |     High          |
 |     Development Team           |     Architecture,   build, deployment, maintenance        |     High           |     Medium        |
 |     Early Adopter   Clients    |     Beta testing,   feedback, case study potential        |     Medium         |     Medium        |
