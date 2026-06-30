@@ -1,6 +1,7 @@
 # User Personas:
 
-### Owner of multiple dark stores
+1. Owner of multiple dark stores:
+
 + Goals:
   *  Always open to new technologies
   *  Encourages staff to upgrade themselves
