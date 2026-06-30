@@ -1,7 +1,9 @@
 # User Personas:
 
-### Manager from MSE firm
+### Owner of multiple dark stores
 + Goals:
-  * 
+  *  Always open to new technologies
+  *  Encourages staff to upgrade themselves
 + Pain Points:
-  * fhefu
+  * Not able to manage multiple stores during high demand and staff absence
+  * Spending excess money in maintaining facilities
