@@ -31,8 +31,9 @@
    + Goals:
      * Interested in autonomous problem solving
      * Hyper-personlization of Customer Experience
-    + Pain Points:
-     * 
+   + Pain Points:
+     * Unable to figure out cost-effective AI tool
+     * Overspending on unnecessary features
    
 
 
