@@ -16,5 +16,24 @@
      * Practicing precision to maintain quality of products
   + Pain Points:
      * Faces production challenges during downtime
-     * Unable to maintain raw material inventory 
+     * Unable to maintain raw material inventory
+
+ 3. Team Leader of Consulting Firm:
+
+  + Goals:
+      * Open to adopt AI in workflow
+      * Interested in Data driven insights
+  + Pain Points:
+      * Difficulty in managing team bandwidth for recurring and lengthy works
+      * Scalability with enhanced accuracy
    
+  4. Team Leader of Unicron and Minicons start-ups:
+   + Goals:
+     * Interested in autonomous problem solving
+     * Hyper-personlization of Customer Experience
+    + Pain Points:
+     * 
+   
+
+
+
