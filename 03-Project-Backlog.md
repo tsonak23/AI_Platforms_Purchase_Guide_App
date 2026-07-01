@@ -31,3 +31,8 @@ As a user, I want to securily register using company email, so that I can start 
 * Implement token expiry logic.
 * Design "Successful Account Verification Page" with Login Link.
 
+
+## Feature-02: Home Page with Search bar and registered list of AI platforms within the app
+Users can explore what are 
+
+
