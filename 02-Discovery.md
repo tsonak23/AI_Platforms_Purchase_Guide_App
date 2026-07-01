@@ -51,7 +51,9 @@
   * Training materials and support resources of the purchased platforms and tools.
 
 ## Out of Scope:
- * 
+* No direct link or integration to purchase subscriptions from any platforms.
+* Development of mobile app
+
 
   
 
