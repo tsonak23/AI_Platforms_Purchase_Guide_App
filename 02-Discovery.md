@@ -34,7 +34,13 @@
    + Pain Points:
      * Unable to figure out cost-effective AI tool
      * Overspending on unnecessary features
-   
+
+
+  # User Journey Map:
+
+  <img width="845" height="642" alt="image" src="https://github.com/user-attachments/assets/a4e48dee-b2a1-4c24-98ca-4b274d6bca26" />
+  
+
 
 
 
