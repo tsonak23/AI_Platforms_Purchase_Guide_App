@@ -52,7 +52,7 @@
 
 ## Out of Scope:
 * No direct link or integration to purchase subscriptions from any platforms.
-* Development of mobile app
+* Development of mobile app.
 
 
   
