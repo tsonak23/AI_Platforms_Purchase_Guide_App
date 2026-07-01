@@ -18,11 +18,16 @@ As a user, I want to securily register using company email, so that I can start 
 
 
 ### User-Story-02:
-* As a registered user, I want to receive an email with verification link, so that I can activate my account. 
+* As a registered user, I want to receive an email with account verification link, so that I can activate my account. 
 
 #### Acceptance Criteria: 
-* User 
+* User can receive account verification link via email.
+* The verification link remains valid for 24 hours.
+* User will be directed to page mentioning successful verification.
 
-
-  * Integrate email services for triggering emails.
+#### Task:
+* Integrate email services for triggering emails.
+* Generate secure verification token.
+* Implement token expiry logic.
+* Design "Successful Account Verification Page" with Login Link.
 
