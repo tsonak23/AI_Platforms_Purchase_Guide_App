@@ -17,7 +17,7 @@ As a user, I want to securily register using company email, so that I can start 
 * Implement passowrd policy validation.
 
 
-### User-Story-02:
+### User_Story-02:
 * As a registered user, I want to receive an email with account verification link, so that I can activate my account. 
 
 #### Acceptance Criteria: 
@@ -32,7 +32,29 @@ As a user, I want to securily register using company email, so that I can start 
 * Design "Successful Account Verification Page" with Login Link.
 
 
-## Feature-02: Home Page with Search bar and registered list of AI platforms within the app
-Users can explore what are 
+## Feature-02: Home Page with Search bar, advance search and registered list of AI platforms within the app
+Users can search and explore what all platforms they can explore within the app
+
+### User_Story-01:
+As a user, I want to type in the search bar , so that I can find specific AI platform I am interested in. 
+
+#### Acceptance Criteria: 
+* User can enter one or more keywords in the search bar.
+* User will see relevant results with respect to the input given in the search bar.
+* If no products match, a "No products found" message is displayed.
+
+#### Task:
+* Design and implement search bar UI.
+* Develop backend search bar API to get relevant results.
+* Design "No result found" page message
+
+
+#### User_Story-02: 
+As s User, I want to filter the list of platforms by different criteria(pricing, usage, business needs)  so that I can narrow results suitable for my requirements.
+
+#### Acceptance Criteria:
+*
+
+
 
 
