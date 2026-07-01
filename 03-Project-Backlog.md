@@ -13,5 +13,9 @@ As a company employee, I want to securily register using company email, so that 
 * A success email message is received by user.
 
 #### Task:
-* 
+* Design "Sign-up" page with marked mandatory fields.
+* Develop registration API to accept new user details and save it to database.
+* Integrate email services for triggering emails.
+* Implement passowrd policy validatio. 
+  
 
