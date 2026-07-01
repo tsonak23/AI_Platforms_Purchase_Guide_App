@@ -39,6 +39,20 @@
   # User Journey Map:
 
   <img width="845" height="642" alt="image" src="https://github.com/user-attachments/assets/a4e48dee-b2a1-4c24-98ca-4b274d6bca26" />
+
+
+
+  # Project Scope:
+  ## In Scope:
+  * Development and deployment of an end to end solution app for comparison of AI platforms and their features, pricing.
+  * Database with up-to date information of AI platforms about their models, APIs, pricing and vendors details.
+  * Dashboard to maintain purchases capacity, tokens etc. 
+  * Automated emails when capped token limit reached.
+  * Training materials and support resources of the purchased platforms and tools.
+
+## Out of Scope:
+ * 
+
   
 
 
