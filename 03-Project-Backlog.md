@@ -49,10 +49,14 @@ As a user, I want to type in the search bar , so that I can find specific AI pla
 * Design "No result found" page message
 
 
-#### User_Story-02: 
+### User_Story-02: 
 As s User, I want to filter the list of platforms by different criteria(pricing, usage, business needs)  so that I can narrow results suitable for my requirements.
 
 #### Acceptance Criteria:
+* One or more filters can be applied to narrow down the reults.
+* When there are no matchinh results with multiple filters applied, reset filter option should appear.
+
+#### Task:
 *
 
 
